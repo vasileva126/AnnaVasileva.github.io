@@ -1,9 +1,8 @@
 # AnnaVasileva.github.io
-  <!doctype html>
   <html>
     <head>
       <meta charset="utf-8">
-      <title>Моя личная страничка</title>
+      Моя личная страничка
     </head>
     <body> 
       <left><h1>Васильева Анна</h1></left>
