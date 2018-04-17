@@ -7,10 +7,10 @@
     </head>
     <body> 
       <left><h1>Васильева Анна</h1></left>
-      <left><img alt="Это я" width="15%" src="https://pp.userapi.com/c627822/v627822156/38d25/TRG13RvjxVw.jpg"></left>
+      <left><img alt="Это я" width="40%" src="https://pp.userapi.com/c627822/v627822156/38d25/TRG13RvjxVw.jpg"></left>
       <br/>
       <h2> Мои контакты:</h2>
-      Страничка <a href=https://vk.com/annette16/>vkontakte</a>
+      Страничка <a href=https://vk.com/annette16/>ВК</a>
       <br/>
       <a href=https://github.com/vasileva126>GitHub</a>
       <br/>
